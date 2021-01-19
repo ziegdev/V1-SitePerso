@@ -1,0 +1,22 @@
+header {
+    background-color: purple;
+}
+
+nav {
+    color: white;
+}
+
+body {
+    background-color: navy;
+    color: white
+}
+
+h1 {
+    font-size: 4 rem;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 3 rem;
+    font-weight: bold;
+}
